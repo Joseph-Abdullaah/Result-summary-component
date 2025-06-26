@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution: [Here]()
-- Live Site: [Here]()
+- Solution: [Here](https://www.frontendmentor.io/solutions/result-summary-component-NJuGIGNox2)
+- Live Site: [Here](https://joseph-abdullaah.github.io/Result-summary-component/)
 
 ## My process
 
